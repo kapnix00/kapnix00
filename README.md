@@ -1,4 +1,3 @@
-```
-Welcome to my github profile  
-It's pretty boring right now  
-```
+Cyber security, IT, CS, Linux, gaming, computing, & homelab enjoyer.
+
+kapnix.dev
